@@ -1,3 +1,2 @@
-hello-world
-i like jianmo
-it is so difficult
+# hello-world
+just another repository
